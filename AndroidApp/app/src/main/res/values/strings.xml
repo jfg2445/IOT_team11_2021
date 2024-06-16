@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleMQTTAndroidApp</string>
+    <string name="steps"></string>
+    <string name="get_weather">GET WEATHER</string>
+    <string name="sync_with_pi">SYNC WITH PI</string>
+    <string name="check_goal">Check Goal</string>
+    <string name="weather"></string>
+    <string name="welcomeMessage">Hi! Welcome to Team 11\'s IoT Application :)</string>
+</resources>
